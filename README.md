@@ -1,7 +1,6 @@
 # AmazonBookTest
 Testing book on Amazon, check if best seller, check author and checkout and create account if needed.
 
-❮img src="Harry Potter and the Philosopher's Stone.png" ❯
 
 ## Download Python 3.9 from here:
 https://www.python.org/downloads/

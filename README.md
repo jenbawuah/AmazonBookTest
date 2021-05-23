@@ -1,5 +1,6 @@
 # AmazonBookTest
-Testing book on Amazon, check if best seller, check author and checkout and create account if needed.
+Testing books on Amazon. 
+Check if book is best seller or not, check author, checkout page and create an account if needed.
 
 
 ## Download Python 3.9 from here:
